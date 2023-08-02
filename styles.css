@@ -1,0 +1,98 @@
+nav.inline-block{
+    background-color:blueviolet; display:inline-block; 
+    width:100%; 
+    clear:both; 
+    }
+    .inline-block ul li{
+    display:inline-block;
+    padding-right:50px;
+    padding-bottom:15px; 
+    
+    }
+    
+    .logo{ 
+    padding:1%;
+    float:right;
+    }
+
+    li{
+    font-family:sans-serif; 
+    font-weight:bold;
+        }
+    .margarethudakdesigns{ 
+        font-size:16px; 
+        color:white
+    }
+    .contact{ 
+    float:right; 
+    font-size:22px;
+    color:white; 
+    
+    }
+    .mywork{
+    float:right; 
+    font-size:22px; 
+    color:white; 
+    }
+    .skills{ 
+    float:right; 
+    font-size:22px; 
+    color:white; 
+    
+    }
+    .about{ 
+    float:right; 
+    font-size:22px; 
+    color:white; 
+    }
+    .heroimage2{ 
+    height:600px;
+    padding:25px;
+    }
+    .content{
+    width:500px; 
+    margin:0 auto; 
+    }
+    .footer{ 
+    
+    }
+    .content1 { 
+    margin-top:100px; 
+    
+    }
+    .h1text{ 
+    font-size:40px;
+    
+    }
+    .pintro { 
+    font-size:25px;
+    }
+    .buttonmywork{ 
+        display:block;
+        margin:0 auto;
+
+    }
+    .heroimage2{
+        margin-top:-148px;
+    }
+.wandrimage{ 
+    height:50px;
+    padding:25px;
+}
+
+.dhsimage{
+    height:50px;
+    padding:25px;
+}
+
+.unicefimage{ 
+    height:50px; 
+    padding:25px;
+}
+
+
+    <div class=".flexContainer">
+    <div>1</div> 
+    <div>2</div> 
+    <div>3</div> 
+</div> 
